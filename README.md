@@ -48,5 +48,3 @@ In today's globalized world, language barriers can significantly hinder effectiv
 4. Install the required libraries:
    ->pip install -r requirements.txt
 
-
-6. 
